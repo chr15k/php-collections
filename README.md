@@ -79,7 +79,7 @@ foreach ($list as $value) {
 echo $list->count(); // 3
 ```
 
-## Extending
+## Extending
 
 To create your own collection type, implement the Collection interface and follow the type-safety pattern.
 
