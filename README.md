@@ -145,4 +145,4 @@ foreach ($stack as $value) {
 
 ## License
 
-MIT
+[MIT](https://github.com/chr15k/php-collections/blob/main/LICENSE.md)
