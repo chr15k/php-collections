@@ -1,8 +1,8 @@
-# PHP Collections
+# PHP Collections / SortedLinkedList
 
 ## Approach
 
-This demo is for primarily for a SortedLinkedList, but decided to implement a Collection interface to standardize common operations (insert, remove, contains, iteration`). Type safety is ensured using PHPStan at the maximum level, while Rector and Pint maintain consistent code quality and best practices. Testing is done with Pest and the Pest coverage plugin, achieving 100% coverage of all functionality.
+This demo is focused on a SortedLinkedList solution in PHP with a 'Collection' interface to standardize common operations (insert, remove, contains, iteration`). Type safety is enforced with PHPStan at the maximum level, while Rector and Pint ensure consistent code quality and best practices. Testing is performed with Pest and the Pest coverage plugin, achieving full coverage of all functionality.
 
 ## Installation
 
