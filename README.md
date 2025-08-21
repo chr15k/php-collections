@@ -10,7 +10,7 @@ I implemented a Collection interface to standardize common operations (insert, r
 composer install
 ```
 
-## Test suite
+## Testing
 
 Run the full test suite:
 
