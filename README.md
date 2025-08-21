@@ -1,4 +1,4 @@
-# PHP Collections / SortedLinkedList
+# PHP Collections
 
 ## Approach
 
@@ -7,7 +7,7 @@ This demo is focused on a SortedLinkedList solution in PHP with a 'Collection' i
 ## Installation
 
 ```bash
-composer install
+composer require chr15k/php-collections
 ```
 
 ## Testing
