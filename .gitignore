@@ -1,0 +1,25 @@
+# Dependency directories
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Coverage and test output
+coverage/
+.phpunit.result.cache
+.phpunit.cache
+phpunit.xml
+phpstan.neon
+
+# Composer files
+composer.lock
