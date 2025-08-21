@@ -2,7 +2,7 @@
 
 ## Approach
 
-I implemented a Collection interface to standardize common operations (insert, remove, contains, iteration`). Type safety is ensured using PHPStan at the maximum level, while Rector and Pint maintain consistent code quality and best practices. Testing is done with Pest and the Pest coverage plugin, achieving 100% coverage of all functionality.
+This demo is for primarily for a SortedLinkedList, but decided to implement a Collection interface to standardize common operations (insert, remove, contains, iteration`). Type safety is ensured using PHPStan at the maximum level, while Rector and Pint maintain consistent code quality and best practices. Testing is done with Pest and the Pest coverage plugin, achieving 100% coverage of all functionality.
 
 ## Installation
 
